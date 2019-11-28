@@ -1,0 +1,22 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 40px;
+  background-color: #eee;
+}
+.container .progress {
+	margin-top: 6px;
+}
+.bucket {
+	width: 80%;
+	height: 32px;
+}
+.params {
+	padding-top: 6px;
+}
+.info {
+	height: 32px;
+	line-height: 32px;
+}
+.md5 {
+	margin-left: 10px;
+}
